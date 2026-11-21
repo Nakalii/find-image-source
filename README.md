@@ -16,7 +16,7 @@
 3. 点「加载解压缩的扩展」,选解压出来、里面直接能看到 manifest.json 的那一层文件夹。
 4. 装好后按 Ctrl+Shift+Y,或者右键任意图片选「用这张图找出处」。
 
-> Chrome 也能装,步骤一样,把地址换成 chrome://extensions。
+> Chrome 不知道能不能，可以试试
 
 ## 用法
 
